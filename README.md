@@ -1,4 +1,4 @@
-# dsu
+# ADAPTIVE AND SCALABLE EDGE-BASED WEED CLASSIFICATION THROUGH DISTILLED ENSEMBLES AND METRIC-BASED META-LEARNING
 
 <div align="center"><img src="UAV_cropped.jpg" alt="Precision Agriculture" height="360" width="1000"></div>
 
